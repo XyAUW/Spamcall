@@ -5,7 +5,8 @@ def balik():
     f = input("\033[1;97mKEMBALI (y/t): \033[1;92m")
     if f == "y":
        os.system("python call.py")
-    elif f == "t": 
+    elif f == "t":
+         sys.exit("\033[1;91mexit\033[1;97m")
 os.system("clear")
 print(C+'Klik Iklan Dulu'+W+' Su !'+C+' :V')
 	sleep(1.5)
