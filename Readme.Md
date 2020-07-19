@@ -1,4 +1,4 @@
-#ScTermuxSpamSMS&CallByRozhak 
+# SpamSMS&Call
 
 $ pkg update && upgrade
 
