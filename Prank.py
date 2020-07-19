@@ -8,9 +8,6 @@ def balik():
     elif f == "t":
          sys.exit("\033[1;91mexit\033[1;97m")
 os.system("clear")
-print(C+'Klik Iklan Dulu'+W+' Su !'+C+' :V')
-	os.system('xdg-open https://m.facebook.com/100021670171916/')
-os.system("clear")
 print ("\tSPAM CALL V4.0")
 print ("      Author: \033[1;96mRozhakGanteng:v\033[1;97m")
 print ("\033[1;97m*     Github:\033[1;92m github.com/Rozak-bot\033[1;97m      *")
