@@ -1,3 +1,4 @@
+#Recode Gw Tampol Lu -_
 import os,sys,time,requests,json
 from requests import post
 def balik():
@@ -8,7 +9,7 @@ def balik():
          sys.exit("\033[1;91mexit\033[1;97m")
 os.system("clear")
 print ("\tSPAM CALL V4.0")
-print ("      Author: \033[1;96mRozhak\033[1;97m")
+print ("      Author: \033[1;96mRozhakGanteng:v\033[1;97m")
 print ("\033[1;97m*     Github:\033[1;92m github.com/Rozak-bot\033[1;97m      *")
 print()
 print ("\033[90m>\033[1;97m CONTOH: \033[1;92m+62857×××××××××")
