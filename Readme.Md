@@ -8,7 +8,7 @@ $ pip2 install requests
 
 $ pkg install git
 
-& git clone https://github.com/Rozak-bot/spamcal-sms
+& git clone https://github.com/Rozak-bot/spamcall
 
 $ cd spamcall
 
