@@ -12,4 +12,4 @@ $ pkg install git
 
 $ cd spamcall
 
-$ python spamcall.py
+$ python Call.py
