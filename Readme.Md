@@ -8,8 +8,8 @@ $ pip2 install requests
 
 $ pkg install git
 
-& git clone https://github.com/Rozak-bot/spamcall
+& git clone https://github.com/Rozak-bot/SpamCall
 
-$ cd spamcall
+$ cd SpamCall
 
-$ python Call.py
+$ python Asw.py
