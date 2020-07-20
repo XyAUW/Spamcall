@@ -1,5 +1,3 @@
-#Recode Gw Tampol Lu -_
-
 import os,sys,time,requests,json
 from requests import post
 def balik():
