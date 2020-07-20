@@ -10,6 +10,6 @@ $ pkg install git
 
 & git clone https://github.com/Rozak-bot/spamcal-sms
 
-$ cd spamcal-sms
+$ cd spamcall
 
-$ python Prank.py
+$ python spamcall.py
